@@ -31,12 +31,6 @@ The system uses **DHT11**, **Soil Moisture Sensor**, **LCD Display**, **Servo Mo
 
 ---
 
-## ⚙️ Circuit Diagram
-*(Replace this image with your actual diagram)*  
-![Circuit Diagram](circuit-diagram.png)
-
----
-
 ## 📜 Code
 The full Arduino code is available in [`smart_agriculture.ino`](smart_agriculture.ino).  
 It handles:
