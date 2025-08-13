@@ -64,9 +64,6 @@ It handles:
 5. Open the **Serial Monitor** (9600 baud rate) to view sensor data.
 
 ---
-
-## 📊 Example Output
-**LCD Display:**
 ## 📌 Applications
 - Smart Irrigation Systems
 - Greenhouse Automation
