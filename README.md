@@ -73,3 +73,19 @@ It handles:
 
 ## 📊 Example Output
 **LCD Display:**
+## 📌 Applications
+- Smart Irrigation Systems
+- Greenhouse Automation
+- Home Gardening
+- Agricultural Research
+
+---
+
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## ✨ Author
+Developed by **Antony Alex(https://github.com/alex22022005)**  
+🚀 Bringing IoT into Agriculture!
