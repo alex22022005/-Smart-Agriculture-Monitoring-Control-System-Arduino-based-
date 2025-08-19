@@ -32,7 +32,7 @@ The system uses **DHT11**, **Soil Moisture Sensor**, **LCD Display**, **Servo Mo
 ---
 
 ## 📜 Code
-The full Arduino code is available in [`smart_agriculture.ino`](https://github.com/alex22022005/-Smart-Agriculture-Monitoring-Control-System-Arduino-based-.git).  
+The full Arduino code is available in [`smart_agriculture.ino`](https://github.com/alex22022005/-Smart-Agriculture-Monitoring-Control-System-Arduino-based-/blob/main/2ndyrsproject.ino).  
 It handles:
 - Reading DHT11 temperature & humidity
 - Reading soil moisture levels
